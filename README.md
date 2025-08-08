@@ -27,28 +27,28 @@ Veja o portfólio online no GitHub Pages:
    ```bash
    git clone https://github.com/sanjuro-dev/web-portifolio.git
    ```
-
-    Acesse a pasta do projeto:
+2. Acesse a pasta do projeto:
    ```bash
    cd web-portifolio
    ```
 
-Abra o arquivo index.html no seu navegador favorito:
-```bash
-open index.html  # ou clique duas vezes no arquivo
-```
+3. Abra o arquivo index.html no seu navegador favorito:
+   ```bash
+   open index.html  # ou clique duas vezes no arquivo
+   ```
+
 ### Como Contribuir
 
 Conexões são bem-vindas! Se tiver sugestões de melhorias no layout, usabilidade ou performance:
+   
+   1. Faça um fork deste repositório.
 
-    Faça um fork deste repositório.
-
-    Crie uma branch com sua sugestão:
+   2. Crie uma branch com sua sugestão:
 
    ```bash
     git checkout -b minha-melhor-ideia
    ```
-    Envie um pull request descrevendo sua contribuição.
+   3. Envie um pull request descrevendo sua contribuição.
 
 Licença
 
