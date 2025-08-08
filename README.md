@@ -36,20 +36,3 @@ Veja o portfólio online no GitHub Pages:
    ```bash
    open index.html  # ou clique duas vezes no arquivo
    ```
-
-### Como Contribuir
-
-Conexões são bem-vindas! Se tiver sugestões de melhorias no layout, usabilidade ou performance:
-   
-   1. Faça um fork deste repositório.
-
-   2. Crie uma branch com sua sugestão:
-
-   ```bash
-    git checkout -b minha-melhor-ideia
-   ```
-   3. Envie um pull request descrevendo sua contribuição.
-
-Licença
-
-Este projeto está sob a licença MIT – veja o arquivo LICENSE para mais detalhes.
